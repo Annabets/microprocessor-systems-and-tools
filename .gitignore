@@ -1,0 +1,7 @@
+# ignore Code Composer folders and files, but do track source code files
+/*
+!.gitignore
+!/lab?*/
+/lab?*/*
+!/lab?*/*.h
+!/lab?*/*.c
